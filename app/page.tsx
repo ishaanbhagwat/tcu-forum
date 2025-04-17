@@ -1,5 +1,5 @@
 import Image from "next/image";
-import PostList from "./components/user-feed/post-list";
+import PostList from "../components/user-feed/post-list";
 
 export default function Home() {
   return (
