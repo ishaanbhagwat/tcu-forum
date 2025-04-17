@@ -8,6 +8,7 @@
 - [ ] UI View for Submit Comment Form
 - [ ] UI View for Show User's List of Posts
 - [ ] UI View Single Post + Comments by PostId.
+- [ ] Routing based on PostId
 - [ ] Add form input validation
 - [ ] Mock Data to show UI workings
 - [ ] Setup Prisma and Supabase
